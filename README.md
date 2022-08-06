@@ -1,0 +1,2 @@
+# jnupro
+django project
